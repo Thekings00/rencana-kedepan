@@ -1,3 +1,4 @@
 selesain C#
 buat apllikasi dari C#
-belajar backend data base dan bahasa yang digunakan
+belajar database sql,mongo db
+belajar bahsa yang digunakan backend
