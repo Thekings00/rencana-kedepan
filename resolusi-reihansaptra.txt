@@ -1,4 +1,5 @@
 selesain C#
+buka ulang materi #
 buat apllikasi dari C#
 belajar database sql,mongo db
 belajar bahsa yang digunakan backend
