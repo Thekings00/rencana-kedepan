@@ -1,0 +1,3 @@
+selesain C#
+buat apllikasi dari C#
+belajar backend data base dan bahasa yang digunakan
